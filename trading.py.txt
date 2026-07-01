@@ -1,0 +1,17 @@
+bot/__init__.py
+
+bot/client.py
+
+bot/orders.py
+
+bot/validators.py
+
+bot/logging_config.py
+
+cli.py
+
+README.md
+
+requirements.txt
+
+trading_bot.log
